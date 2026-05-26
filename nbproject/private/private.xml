@@ -3,7 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+<<<<<<< HEAD
             <file>file:/C:/NetBeansProjects/ClienteChat/src/ClienteChat.java</file>
+=======
+            <file>file:/C:/NetBeansProjects/ServidorChat/src/ServidorChat.java</file>
+            <file>file:/C:/NetBeansProjects/ServidorChat/src/ManejadorCliente.java</file>
+>>>>>>> 47cb4114a27d6839c2ddbf76b6d01d47c4cea26b
         </group>
     </open-files>
 </project-private>
